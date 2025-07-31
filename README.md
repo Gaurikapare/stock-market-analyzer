@@ -24,6 +24,8 @@ An interactive **Stock Market Analyzer** built with **Python & Streamlit** to an
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 🔹 Live Demo
+[Click Here to Open App](https://stock-market-analyzer-nbkiaxuniqwmkslhsqytym.streamlit.app/)
 
 Author-
 Gauri Kapare
