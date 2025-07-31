@@ -22,7 +22,7 @@ An interactive **Stock Market Analyzer** built with **Python & Streamlit** to an
 ## 🔹 How to Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py ```
 
 Author-
 Gauri Kapare
